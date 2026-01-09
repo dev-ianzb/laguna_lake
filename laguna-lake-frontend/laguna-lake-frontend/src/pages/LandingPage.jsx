@@ -126,8 +126,8 @@ function LandingPage() {
 
       <div className="container text-center mb-4">
         <small className="text-muted">
-          Data shown are based on latest LLDA historical reports and DENR water
-          quality standards and are simulated for Academic purposes.
+          Data shown are simulated for academic purposes it is based on LLDA
+          historical reports and DENR water quality standards.
         </small>
       </div>
     </>

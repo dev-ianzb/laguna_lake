@@ -1,106 +1,67 @@
 [
   {
     "id": 1,
-    "name": "Station I Central West Bay",
-    "coordinates": [14.45, 121.0],
+    "name": "Station A - Los Baños",
+    "coordinates": [14.17, 121.243],
     "parameters": {
-      "DO": 7.5,
-      "pH": 7.5,
-      "BOD": 2.0,
+      "DO": 6.5,
+      "pH": 7.4,
+      "BOD": 3.2,
       "COD": 25,
-      "Turbidity": 15,
-      "Temperature": 28
-    }
-  },
-  {
-    "id": 2,
-    "name": "Station II East Bay",
-    "coordinates": [14.42, 121.25],
-    "parameters": {
-      "DO": 8.0,
-      "pH": 7.7,
-      "BOD": 2.0,
-      "COD": 28,
-      "Turbidity": 18,
+      "Turbidity": 12,
       "Temperature": 29
     }
   },
   {
-    "id": 3,
-    "name": "Station IV Central Bay",
-    "coordinates": [14.38, 121.2],
+    "id": 2,
+    "name": "Station B - Bay",
+    "coordinates": [14.1805, 121.2852],
     "parameters": {
-      "DO": 8.0,
-      "pH": 7.7,
-      "BOD": 2.0,
-      "COD": 27,
-      "Turbidity": 17,
+      "DO": 5.8,
+      "pH": 7.1,
+      "BOD": 4.1,
+      "COD": 30,
+      "Turbidity": 18,
+      "Temperature": 30
+    }
+  },
+  {
+    "id": 3,
+    "name": "Station C - Calamba",
+    "coordinates": [14.211, 121.165],
+    "parameters": {
+      "DO": 6.1,
+      "pH": 7.3,
+      "BOD": 3.8,
+      "COD": 28,
+      "Turbidity": 15,
       "Temperature": 28
     }
   },
   {
     "id": 4,
-    "name": "Station V Northern West Bay",
-    "coordinates": [14.5, 121.05],
+    "name": "Station D - Binangonan",
+    "coordinates": [14.4624, 121.1919],
     "parameters": {
-      "DO": 7.7,
-      "pH": 7.6,
-      "BOD": 2.0,
-      "COD": 26,
-      "Turbidity": 16,
-      "Temperature": 28
+      "DO": 5.4,
+      "pH": 6.9,
+      "BOD": 4.6,
+      "COD": 35,
+      "Turbidity": 22,
+      "Temperature": 31
     }
   },
   {
     "id": 5,
-    "name": "Station XV San Pedro",
-    "coordinates": [14.35, 121.05],
+    "name": "Station E - Cardona",
+    "coordinates": [14.485, 121.228],
     "parameters": {
-      "DO": 7.0,
+      "DO": 6.8,
       "pH": 7.6,
-      "BOD": 2.0,
-      "COD": 25,
-      "Turbidity": 15,
-      "Temperature": 28
-    }
-  },
-  {
-    "id": 6,
-    "name": "Station XVI Sta. Rosa",
-    "coordinates": [14.33, 121.07],
-    "parameters": {
-      "DO": 7.5,
-      "pH": 7.8,
-      "BOD": 1.5,
-      "COD": 24,
-      "Turbidity": 14,
+      "BOD": 2.9,
+      "COD": 20,
+      "Turbidity": 10,
       "Temperature": 27
-    }
-  },
-  {
-    "id": 7,
-    "name": "Station XVII - Fish Sanctuary",
-    "coordinates": [14.4, 121.18],
-    "parameters": {
-      "DO": 8.0,
-      "pH": 7.7,
-      "BOD": 2.0,
-      "COD": 27,
-      "Turbidity": 17,
-      "Temperature": 28
-    }
-  },
-  {
-    "id": 8,
-    "name": "Station Pagsanjan",
-    "coordinates": [14.31, 121.33],
-    "parameters": {
-      "DO": 8.0,
-      "pH": 7.5,
-      "BOD": 2.0,
-      "COD": 28,
-      "Turbidity": 18,
-      "Temperature": 29
     }
   }
 ]
